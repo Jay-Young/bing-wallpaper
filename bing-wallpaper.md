@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-07-20 | [Colorful alleyway in the medina of Tétouan, Morocco (© Jan Wlodarczyk/eStock Photo)](https://cn.bing.com/th?id=OHR.Tetouan_EN-US7379560261_UHD.jpg) 
+
 2021-07-18 | [A Loepa oberthuri moth (© Robert Thompson/Minden Pictures)](https://cn.bing.com/th?id=OHR.LoepaOberthuri_EN-US7208560265_UHD.jpg) 
 
 2021-07-17 | [Mont Choisy Beach, Mauritius (© Robert Harding World Imagery/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.MontChoisy_EN-US7121697055_UHD.jpg) 
