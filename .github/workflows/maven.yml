@@ -25,10 +25,13 @@ jobs:
       run: java -jar target/bing-wallpaper-jar-with-dependencies.jar
     - name: Commit files
       run: |
-         git config --local user.email "8641055+Jay-Young@users.noreply.github.com"
-         git config --local user.name "Jay-Young"
+         git config --local user.email "niumoo@126.com"
+         git config --local user.name "niumoo"
+         git pull
          git add README.md
          git add bing-wallpaper.md
+         git add picture/*
+         git add docs/*
          git commit -m "update readme.md"
     - name: Push changes
       uses:  ad-m/github-push-action@master

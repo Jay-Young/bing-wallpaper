@@ -449,6 +449,8 @@
 
 2022-03-12 | [Field of sunflowers, Ukraine's national flower (© Oleksandrum/Shutterstock)](https://cn.bing.com/th?id=OHR.UkraineSolidarity_EN-US5145726986_UHD.jpg) 
 
+2022-03-11 | [The Ponte Vecchio, a bridge near Bobbio, Italy (© afinocchiaro/Getty Images)](https://cn.bing.com/th?id=OHR.BobbioItaly_EN-US7115321929_UHD.jpg) 
+
 2022-03-10 | [The 'Flower of Life' symbol drawn in the snow by artist Michael Uy, Jacobsdorf, Brandenburg, Germany (© Patrick Pleul/picture alliance via Getty Images)](https://cn.bing.com/th?id=OHR.FlowerofLife_EN-US7000703872_UHD.jpg) 
 
 2022-03-09 | [The 'Fearless Girl' statue outside the New York Stock Exchange in New York City (© Brendan McDermid/Alamy)](https://cn.bing.com/th?id=OHR.BrokenGlass_EN-US4411138843_UHD.jpg) 
@@ -911,11 +913,13 @@
 
 2021-07-23 | [The Minokake-Iwa rocks off the coast of the Izu Peninsula, Japan (© Krzysztof Baranowski/Getty Images)](https://cn.bing.com/th?id=OHR.MinokakeRocks_EN-US9026307089_UHD.jpg) 
 
-2021-07-22 | [Castel del Monte, Apulia, Italy (© Toni Spagone/Alamy)](https://cn.bing.com/th?id=OHR.CasteldelMonte_EN-US0394527485_UHD.jpg) 
+2021-07-22 | [Wachsenburg Castle near Erfurt, Germany (© Radius Images/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.WachsenburgCastle_EN-US8953512968_UHD.jpg) 
 
 2021-07-21 | [Composite image of the moon (© Prathamesh Jaju)](https://cn.bing.com/th?id=OHR.PrathameshJaju_EN-US8876008160_UHD.jpg) 
 
 2021-07-20 | [Colorful alleyway in the medina of Tétouan, Morocco (© Jan Wlodarczyk/eStock Photo)](https://cn.bing.com/th?id=OHR.Tetouan_EN-US7379560261_UHD.jpg) 
+
+2021-07-19 | [Tour de France riders in front of the Louvre Pyramid and Museum in Paris, France, during the 2020 race (© Martin Bureau/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.LouvreRiders_EN-US7293709223_UHD.jpg) 
 
 2021-07-18 | [A Loepa oberthuri moth (© Robert Thompson/Minden Pictures)](https://cn.bing.com/th?id=OHR.LoepaOberthuri_EN-US7208560265_UHD.jpg) 
 
@@ -1040,6 +1044,8 @@
 2021-05-19 | [Centre Pompidou Málaga in Málaga, Spain (© Wim Wiskerke/Alamy)](https://cn.bing.com/th?id=OHR.PompidouMalaga_EN-US7695811401_UHD.jpg) 
 
 2021-05-18 | [Ålesund, Norway (© AWL Images/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.Alesund_EN-US7597098434_UHD.jpg) 
+
+2021-05-17 | [Aerial view of El Peñón de Guatapé, Guatapé, Antioquia, Colombia (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.Guatape_EN-US7463341939_UHD.jpg) 
 
 2021-05-16 | [Telescopes and star trails at Paranal Observatory, Atacama Desert, Chile (© Matteo Omied/Alamy)](https://cn.bing.com/th?id=OHR.ParanalStars_EN-US4851647464_UHD.jpg) 
 
